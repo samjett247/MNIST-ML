@@ -1,6 +1,7 @@
-
 # Notes on CNNs for MNIST
 This can keep a log of digital documents and other materials that were helpful for understanding CNNs in PyTorch.
+- [MNIST tutorial PyTorch](https://nextjournal.com/gkoehler/pytorch-mnist)
+    - Maybe a little better documented example of a pytorch algorithm, with the steps included. Also this one trained to a better accuracy than next example (98%).
 - [MNIST tutorial PyTorch](https://www.kaggle.com/sdelecourt/cnn-with-pytorch-for-mnist)
     - Neural Nets walkthrough with PyTorch hosted on a Kaggle kernel. Code provided with lots of samples in Markdown
 - [Convolutional Neural Nets (CNNs) background](http://cs231n.github.io/convolutional-networks/)
